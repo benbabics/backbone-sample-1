@@ -1,2 +1,0 @@
-from franchise_list import FranchiseList
-from franchise_detail import FranchiseDetail

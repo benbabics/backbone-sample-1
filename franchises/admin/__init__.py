@@ -1,1 +1,0 @@
-from franchise_admin import FranchiseAdmin

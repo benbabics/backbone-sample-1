@@ -17,6 +17,7 @@ define [
 
     createController: (Controller) ->
       # create the controller
+      # although this happens automatically, this is an override for an example
       @controller = new Controller()
 
 

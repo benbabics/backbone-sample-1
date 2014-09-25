@@ -1,4 +1,4 @@
-{% extends 'base.html' %}
+{% extends 'base.twig' %}
 
 {% block page_config %}
 {
@@ -6,9 +6,9 @@
 }
 {% endblock page_config %}
 
-{% block page_module %}
+{% block page_modules %}
     [ 'locations', 'meals', 'order' ]
-{% endblock page_module %}
+{% endblock page_modules %}
 
 {% block content %}
     <article>
